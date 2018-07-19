@@ -1,0 +1,14 @@
+{
+  "name": "hello_world_with_node",
+  "version": "1.0.0",
+  "description": "https://medium.com/@adnanrahic/hello-world-app-with-node-js-and-express-c1eb7cfa8a30",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
