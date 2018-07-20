@@ -1,0 +1,1 @@
+Setting up a basic Node server which will return some info based on the route the user is accessing. Followed [this article](https://medium.com/@adnanrahic/hello-world-app-with-node-js-and-express-c1eb7cfa8a30)
